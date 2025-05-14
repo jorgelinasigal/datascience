@@ -1,8 +1,7 @@
 1. # Título del proyecto
-## BRECHA SALARIAL DE GÉNERO EN ARGENTINA
+- BRECHA SALARIAL DE GÉNERO EN ARGENTINA
 2. # Descripción general
-- Motivacion
-Este proyecto analiza la evolución de la brecha salarial entre géneros en Argentina, utilizando datos de remuneraciones por industria y período. Se busca identificar patrones y desigualdades en los ingresos laborales.
+- Este proyecto analiza la evolución de la brecha salarial entre géneros en Argentina, utilizando datos de remuneraciones por industria y período. Se busca identificar patrones y desigualdades en los ingresos laborales.
 3. # Contenido del proyecto 
 - README.md : este archivo.
 - Remuneraciones (1). csv : contiene el conjunto de datos crudo proporcionado por el Ministerio de Trabajo.
@@ -20,4 +19,4 @@ Este proyecto analiza la evolución de la brecha salarial entre géneros en Arge
 - Comparación de remuneraciones por industria y género.
 - Distribución de sueldos por género.
 6. # Autores
-Proyecto desarrollado por Daniela Ferraro y Jorgelina Sigal. Contacto: [www.linkedin.com/in/jorgelina-sígal-014855217].
+- Proyecto desarrollado por Daniela Ferraro y Jorgelina Sigal. Contacto: [www.linkedin.com/in/danielamilagrosferraro] [www.linkedin.com/in/jorgelina-sígal-014855217].
