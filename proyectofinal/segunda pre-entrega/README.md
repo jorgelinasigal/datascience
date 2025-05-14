@@ -12,7 +12,7 @@ Este proyecto analiza la evolución de la brecha salarial entre géneros en Arge
 - Instalar Visual Studio Code o Anaconda desde su respectiva web.
 - Instalar Python desde su web.
 - Independientemente del espacio elegido para trabajar, instalar las librerias pandas, numpy, seaborn, matplotlib y scikit-learn.
-- Clonar el repositorio [text](https://github.com/jorgelinasigal/datascience.git).
+- Clonar el repositorio [https://github.com/jorgelinasigal/datascience.git].
 - Abrir la carpeta segunda pre-entrega en el entorno.
 - Ejecutar las celdas en orden para comenzar el análisis.
 5. # Resultados 
@@ -20,4 +20,4 @@ Este proyecto analiza la evolución de la brecha salarial entre géneros en Arge
 - Comparación de remuneraciones por industria y género.
 - Distribución de sueldos por género.
 6. # Autores
-Proyecto desarrollado por Daniela Ferraro y Jorgelina Sigal. Contacto: [text](www.linkedin.com/in/jorgelina-sígal-014855217)
+Proyecto desarrollado por Daniela Ferraro y Jorgelina Sigal. Contacto: [www.linkedin.com/in/jorgelina-sígal-014855217].
