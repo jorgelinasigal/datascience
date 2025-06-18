@@ -29,7 +29,7 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 - Instalar Python desde su web.
 - Independientemente del espacio elegido para trabajar, instalar las librerias pandas, numpy, seaborn, matplotlib y scikit-learn.
 - Clonar el repositorio [https://github.com/jorgelinasigal/datascience.git].
-- Abrir la carpeta segunda pre-entrega en el entorno.
+- Abrir la carpeta tercera pre-entrega en el entorno.
 - Ejecutar las celdas en orden para comenzar el análisis.
   
 ## Herramientas utilizadas
@@ -57,14 +57,6 @@ Se implementaron dos enfoques de aprendizaje supervisado:
    - R² (Coeficiente de determinación)
 
 Además, se realizaron procesos de **optimización de hiperparámetros** mediante técnicas como GridSearchCV y validación cruzada.
-
-## Visualizaciones destacadas
-
-- 📊 [Importancia de variables en el modelo de regresión](https://github.com/jorgelinasigal/datascience/blob/master/proyectofinal/tercera%20pre-entrega/remuneracion_regresion.ipynb#L100)  
-  Análisis de qué variables (género, industria, año) tienen mayor peso en la predicción salarial.
-
-- 📈 [Gráfico de dispersión entre valores predichos y reales](https://github.com/jorgelinasigal/datascience/blob/master/proyectofinal/tercera%20pre-entrega/remuneracion_regresion.ipynb#L150)  
-  Evaluación visual del ajuste del modelo de regresión lineal y random forest.
 
 ## Principales resultados
 
