@@ -70,4 +70,5 @@ El análisis pone de manifiesto desigualdades estructurales en el mercado labora
 
 ## Autoría
 
-Proyecto realizado por **Jorgelina Sigal** y **Daniela Ferraro** (2025).
+Proyecto realizado por **Jorgelina Sigal** y **Daniela Ferraro** (2025). 
+[www.linkedin.com/in/jorgelina-sígal-014855217] [www.linkedin.com/in/danielamilagrosferraro] 
