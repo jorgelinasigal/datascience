@@ -45,11 +45,12 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 
 ## Metodología
 
-- Tratamiento de outliers con IQR y Robust Scaler.
-- Aplicación de algoritmo K-means.
-- Aplicación del método del codo.
-- Aplicación de Silhouette Score.
-- Visualización mediante PCA.
+Se implementó un modelo de aprendizaje no supervisado con los siguientes pasos:
+    - Tratamiento de outliers con IQR y Robust Scaler.
+    - Aplicación de algoritmo K-means.
+    - Aplicación del método del codo.
+    - Aplicación de Silhouette Score.
+    - Visualización mediante PCA.
 
 ## Principales resultados
 
@@ -59,7 +60,7 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 
 ## Reflexión final
 
-Los resultados reflejan una realidad estructural en la que las mujeres tienden a percibir remuneraciones más bajas, aún dentro del mismo período y sector. Se destaca la importancia de contextualizar los modelos dentro de un análisis ético y socialmente consciente, entendiendo que el valor del análisis de datos va más allá de lo técnico: *contribuye a visibilizar problemáticas sociales profundasy orientar políticas más justas.*
+Los resultados reflejan una realidad estructural en la que las mujeres tienden a percibir remuneraciones más bajas, aún dentro del mismo período y sector. Se destaca la importancia de contextualizar los modelos dentro de un análisis ético y socialmente consciente, entendiendo que el valor del análisis de datos va más allá de lo técnico: *contribuye a visibilizar problemáticas sociales profundas y orientar políticas más justas.*
 
 ## Autoría
 
