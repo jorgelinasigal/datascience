@@ -24,7 +24,8 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 - `remuneracion_regresion.ipynb`: notebook con modelos de regresión para predecir el valor de la remuneración.
 - `README.md`: este archivo.
 
-# Instalación y requisitos
+## Instalación y requisitos
+
 - Instalar Visual Studio Code o Anaconda desde su respectiva web.
 - Instalar Python desde su web.
 - Independientemente del espacio elegido para trabajar, instalar las librerias pandas, numpy, seaborn, matplotlib y scikit-learn.
@@ -33,10 +34,13 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 - Ejecutar las celdas en orden para comenzar el análisis.
   
 ## Herramientas utilizadas
+
 - Python
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Scikit-learn
-- Matplotlib, Seaborn
+- Matplotlib
+- Seaborn
 
 ## Metodología
 
