@@ -46,6 +46,7 @@ Analizar la evolución de la remuneración media del empleo registrado en el sec
 ## Metodología
 
 Se implementó un modelo de aprendizaje no supervisado con los siguientes pasos:
+
     - Tratamiento de outliers con IQR y Robust Scaler.
     - Aplicación de algoritmo K-means.
     - Aplicación del método del codo.
